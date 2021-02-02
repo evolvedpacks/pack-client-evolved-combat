@@ -1,5 +1,4 @@
-1.13.1+466
+1.13.2+470
 
 • update config Custom Main Menu
-
-• remove unused files
+• update config Forge Discord RPC
