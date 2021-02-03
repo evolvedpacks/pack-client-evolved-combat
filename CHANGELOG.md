@@ -1,5 +1,14 @@
-1.14.0+474
+1.15.0+478
 
-• update mod Spiders Produce Web
+• add mod Asgard Shield Reloaded
+• add mod Collective
+
+• add config Collective
 
 • update config Custom Main Menu
+
+• remove mod Giant Swords Mod
+• remove mod Instant Drown
+
+• remove config Instant Drown
+
