@@ -1,15 +1,19 @@
-1.16.0+482
-
-• add mod Cleanse
-• add mod Instant Drown
-
-• add config Cleanse
-• add config Instant Drown
+1.17.0+486
 
 • update mod Collective
+• update config Forge Discord RPC
+• update mod Magic Staffs
 
+• update config Armory Expansion Bits And Pieces
+• update config Battel Towers
 • update config Custom Main Menu
+• update config Damage Indicator
+• update config Forge
+• update config Forge Discord RPC
+• update config Infernal Mobs
+• update config Magic Staffs
+• update config Materialis
+• update config Multi Mob
+• update config Soul Shards Respawn
 
-• remove mod Clean View
-• remove mod Clumps
-
+• remove unused files
