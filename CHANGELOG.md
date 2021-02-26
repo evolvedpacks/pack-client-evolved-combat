@@ -1,7 +1,6 @@
-1.18.0+488
+1.19.0+490
 
-• update mod Forge Discord RPC
-• update mod Magic Staffs
+• update mod Collective
+• update mod Ore Stone Variants
 
 • update config Custom Main Menu
-• update config Forge Discord RPC
