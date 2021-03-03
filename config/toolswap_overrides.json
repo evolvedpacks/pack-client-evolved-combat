@@ -81,7 +81,11 @@
             "minecraft:iron_trapdoor",
             "minecraft:observer",
             "minecraft:iron_door",
-            "minecraft:prismarine"
+            "minecraft:prismarine",
+            "chisel:basalt2",
+            "chisel:limestone2",
+            "chisel:marble2"
+
         ],
         "axe": [
             "minecraft:oak_stairs",
