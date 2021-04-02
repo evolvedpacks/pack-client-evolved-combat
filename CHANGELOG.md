@@ -1,20 +1,16 @@
-1.25.0+606
+1.26.0+608
+
+• add mod Garbage Bins
+• add mod Portable Trash Can
 
 • update mod Collective
-• update mod Condition Overload
-• update mod Magic Staffs
-• update mod Mystical Lib
-• update mod Ore Stone Variants
-• update mod Total Tinkers
+• update mod Tinkers' Reforged
 
-• update config Condition Overload
 • update config Custom Main Menu
-• update config Magic Staffs
-• update config Ore Stone Variants
-• update config Tool Swap
+• update config Tinkers' Reforged
 
-• update resourcepack Evolved Combat
+• remove mod Bountiful
+• remove mod Reforged
 
-• fix https://github.com/evolvedpacks/pack-client-evolved-combat/issues/7
-• fix https://github.com/evolvedpacks/pack-client-evolved-combat/issues/8
-• fix https://github.com/evolvedpacks/pack-client-evolved-combat/issues/9
+• remove config Bountiful
+• remove config Reforged
