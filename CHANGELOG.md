@@ -1,6 +1,7 @@
-1.27.0+610
+1.28.0+614
 
-• update mod JAOPCA
+• update mod Collective
+• update mod The Aether
 
 • update config Custom Main Menu
-• update config JAOPCA
+• update config The Aether
