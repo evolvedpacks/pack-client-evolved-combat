@@ -1,5 +1,4 @@
-1.32.0+622
-
-• update mod Hammer Core
+1.33.0+624
 
 • update config Custom Main Menu
+• update config Ore Stone Variants
