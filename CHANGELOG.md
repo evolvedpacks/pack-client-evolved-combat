@@ -1,4 +1,12 @@
-1.33.0+624
+1.34.0+628
 
+• update mod Collective
+• update mod Custom Loading Screen
+• update mod Infernal Mobs
+• update mod JAOPCA
+• update mod Myst Library
+• update mod Mystical Lib
+
+• update config Custom Loading Screen
 • update config Custom Main Menu
-• update config Ore Stone Variants
+• update config Infernal Mobs
