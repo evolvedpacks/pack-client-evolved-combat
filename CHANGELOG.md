@@ -1,12 +1,13 @@
-1.34.0+628
+1.35.0+632
 
-• update mod Collective
-• update mod Custom Loading Screen
-• update mod Infernal Mobs
-• update mod JAOPCA
-• update mod Myst Library
-• update mod Mystical Lib
+• add mod Chocolate Quest Repoured
+• add mod Gecko Lib
 
-• update config Custom Loading Screen
+• update mod Hammer Lib
+
+• remove mod Asgard Shield Reloaded
+• remove mod Roguelike Dungeons
+
 • update config Custom Main Menu
-• update config Infernal Mobs
+
+• remove config Roguelike Dungeons
