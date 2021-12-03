@@ -1,13 +1,9 @@
-1.35.0+632
+1.36.0+634
 
-• add mod Chocolate Quest Repoured
-• add mod Gecko Lib
+• update mod Aroma Backup S3
+• update mod Chocolate Quest Repoured
+• update mod Collective
+• update mod Gecko Lib
 
-• update mod Hammer Lib
-
-• remove mod Asgard Shield Reloaded
-• remove mod Roguelike Dungeons
-
+• update config Aroma Backup S3
 • update config Custom Main Menu
-
-• remove config Roguelike Dungeons
